@@ -30,12 +30,12 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="50" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=jest" height="50" />
   <img src="https://skillicons.dev/icons?i=selenium" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" />
-
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="50" style="vertical-align: middle;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" style="vertical-align: middle;" />
   <img src="assets/icons/powerbi.svg" height="50" style="vertical-align: middle;" />

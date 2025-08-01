@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ayman+Elhaddad;Welcome+To+My+GitHub+Profile!;Power+BI+Developer+%7C+Data+Analyst+%7C+Frontend+Dev;QA+Tester+%7C+Insight-Driven+Solutions&center=true&width=1000&height=70&font=Fira+Code&pause=2000&color=39FF14&background=000000" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ayman+Elhaddad;Welcome+To+My+GitHub+Profile!;Power+BI+Developer+%7C+Data+Analyst+%7C+Frontend+Dev;QA+Tester+%7C+Insight-Driven+Solutions&center=true&width=600&height=100&font=Fira+Code&pause=2000&color=39FF14&background=000000" 
     alt="Typing SVG" />
 </p>
 
